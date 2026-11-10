@@ -1,0 +1,8 @@
+**/target/
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
+
+# Local Phase 12 container/deployment diagnostics
+/raft-kv-store/docker-evidence/
