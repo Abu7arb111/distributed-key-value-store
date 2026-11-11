@@ -56,3 +56,4 @@ Run from `raft-kv-store/`:
 - `raft_kv_design/` — Architecture, API, Storage, Scope, and Test design specs
 - `IMPLEMENTATION_ROADMAP.md` — Bottom-up phased build strategy
 - `live-demo/` — macOS Bash helper (`demo.sh`) and zero-dependency local web console (`server.py`) backed by real Docker + `DeploymentSmokeClient` RPCs
+
